@@ -3,6 +3,8 @@ Some Java exercises from the Java track on exercism.org
 
 # Exercises
 
+List of completed exercises and the concepts they teach!
+
 - [Log Levels](https://github.com/LucioRuizDiaz/Java-Exercism/tree/main/log-levels)
   - Strings.
 - [Squeaky Clean](https://github.com/LucioRuizDiaz/Java-Exercism/tree/main/squeaky-clean)
